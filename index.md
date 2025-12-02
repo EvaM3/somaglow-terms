@@ -1,13 +1,14 @@
-# 
+[**SomaGlow Legal**](/somaglow-terms/)  [**Terms**](/somaglow-terms/terms/)  [**Privacy**](/somaglow-terms/privacy/)
 
-Welcome to the legal hub for **SomaGlow**. Choose a document:
+# SomaGlow Legal
 
-[**Terms of Service**](/terms/) – Your use of SomaGlow, subscriptions, acceptable use, and liability.  
+Welcome to the legal hub for **SomaGlow**.
 
-[**Privacy Policy**](/privacy/) – What data the app handles (mostly on-device), your rights, and deletion.
+## Documents
 
-[← Back to Legal Home](/)
+- [Terms of Service](/somaglow-terms/terms/)  
+- [Privacy Policy](/somaglow-terms/privacy/)
 
-© 2025 SomaGlow · eva.madarasz3@gmail.com ·  
-
+© 2025 SomaGlow · eva.madarasz3@gmail.com  
 Informational only — not legal advice.
+
