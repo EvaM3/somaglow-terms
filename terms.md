@@ -128,7 +128,7 @@ If any part of these Terms is found unenforceable, the rest remains in effect.
 
 * * *
 
-[← Back to Legal Home](/)
+[← Back to Legal Home](/somaglow-terms/)
 
 © 2025 SomaGlow · eva.madarasz3@gmail.com ·  
 
