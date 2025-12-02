@@ -97,7 +97,7 @@ Continued use of the app after updates means acceptance of the revised Policy.
 
 * * *
 
-[← Back to Legal Home](/)
+[← Back to Legal Home](/somaglow-terms/)
 
 © 2025 SomaGlow · eva.madarasz3@gmail.com ·  
 
