@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the GitHub header button from Cayman */
+.page-header .btn {
+  display: none;
+}
