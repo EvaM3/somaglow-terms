@@ -2,8 +2,6 @@
 
 Version 1.0 Effective 2025-12-02
 
-# Privacy Policy
-
 Effective Date: December 2, 2025  
 App Name: SomaGlow – Somatic Grounding & Mindfulness App  
 Developer: Eva Madarasz  
