@@ -3,7 +3,7 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy – SomaGlow
+Privacy Policy
 
 Version 1.0 Effective 2025-12-02
 
